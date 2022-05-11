@@ -1,6 +1,6 @@
 {
-  "homepage": "https://lalit774.github.io/gitpages/",
   "name": "gitpages",
+  "homepage": "https://lalit774.github.io/gitpages/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
